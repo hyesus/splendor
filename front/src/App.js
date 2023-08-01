@@ -1,9 +1,10 @@
 import './App.css';
+import Splendor from './Splendor';
 
 function App() {
   return (
     <div className="App">
-      IT-HelloWorld!
+      <Splendor/>
     </div>
   );
 }

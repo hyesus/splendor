@@ -1,0 +1,110 @@
+{
+    "level1" : [
+        { "id": "lv101", "level": 1, "bonus": "white", "points": 1, "cost": { "green": 4 }, "position": "0 -400%" },
+        { "id": "lv102", "level": 1, "bonus": "white", "points": 0, "cost": { "blue": 3 }, "position": "0 -400%" },
+        { "id": "lv103", "level": 1, "bonus": "white", "points": 0, "cost": { "blue": 2,  "black": 2 }, "position": "0 -400%" },
+        { "id": "lv104", "level": 1, "bonus": "white", "points": 0, "cost": { "red": 2, "black": 1 }, "position": "0 -400%" },
+        { "id": "lv105", "level": 1, "bonus": "white", "points": 0, "cost": { "white": 3, "blue": 1, "black": 1 }, "position": "0 -400%" },
+        { "id": "lv106", "level": 1, "bonus": "white", "points": 0, "cost": { "blue": 2, "green": 2, "black": 1 }, "position": "0 -400%" },
+        { "id": "lv107", "level": 1, "bonus": "white", "points": 0, "cost": { "blue": 1, "green": 2, "red": 1, "black": 1 }, "position": "0 -400%" },
+        { "id": "lv108", "level": 1, "bonus": "white", "points": 0, "cost": { "blue": 1, "green": 1, "red": 1, "black": 1 }, "position": "0 -400%" },
+        
+        { "id": "lv109", "level": 1, "bonus": "blue", "points": 1, "cost": { "red": 4 }, "position": "0 0" },
+        { "id": "lv110", "level": 1, "bonus": "blue", "points": 0, "cost": { "black": 3 }, "position": "0 0" },
+        { "id": "lv111", "level": 1, "bonus": "blue", "points": 0, "cost": { "green": 2,  "black": 2 }, "position": "0 0" },
+        { "id": "lv112", "level": 1, "bonus": "blue", "points": 0, "cost": { "white": 1, "black": 2 }, "position": "0 0" },
+        { "id": "lv113", "level": 1, "bonus": "blue", "points": 0, "cost": { "blue": 1, "green": 3, "red": 1 }, "position": "0 0" },
+        { "id": "lv114", "level": 1, "bonus": "blue", "points": 0, "cost": { "white": 1, "green": 2, "red": 2 }, "position": "0 0" },
+        { "id": "lv115", "level": 1, "bonus": "blue", "points": 0, "cost": { "white": 1, "green": 1, "red": 2, "black": 1 }, "position": "0 0" },
+        { "id": "lv116", "level": 1, "bonus": "blue", "points": 0, "cost": { "white": 1, "green": 1, "red": 1, "black": 1 }, "position": "0 0" },
+        
+        { "id": "lv117", "level": 1, "bonus": "green", "points": 1, "cost": { "black": 4 }, "position": "0 -300%" },
+        { "id": "lv118", "level": 1, "bonus": "green", "points": 0, "cost": { "red": 3 }, "position": "0 -300%" },
+        { "id": "lv119", "level": 1, "bonus": "green", "points": 0, "cost": { "blue": 2,  "red": 2 }, "position": "0 -300%" },
+        { "id": "lv120", "level": 1, "bonus": "green", "points": 0, "cost": { "white": 2, "blue": 1 }, "position": "0 -300%" },
+        { "id": "lv121", "level": 1, "bonus": "green", "points": 0, "cost": { "white": 1, "blue": 3, "green": 1 }, "position": "0 -300%" },
+        { "id": "lv122", "level": 1, "bonus": "green", "points": 0, "cost": { "blue": 1, "red": 2, "black": 2 }, "position": "0 -300%" },
+        { "id": "lv123", "level": 1, "bonus": "green", "points": 0, "cost": { "white": 1, "blue": 1, "red": 1, "black": 2 }, "position": "0 -300%" },
+        { "id": "lv124", "level": 1, "bonus": "green", "points": 0, "cost": { "white": 1, "blue": 1, "red": 1, "black": 1 }, "position": "0 -300%" },
+        
+        { "id": "lv125", "level": 1, "bonus": "red", "points": 1, "cost": { "white": 4 }, "position": "0 -200%" },
+        { "id": "lv126", "level": 1, "bonus": "red", "points": 0, "cost": { "white": 3 }, "position": "0 -200%" },
+        { "id": "lv127", "level": 1, "bonus": "red", "points": 0, "cost": { "white": 2,  "red": 2 }, "position": "0 -200%" },
+        { "id": "lv128", "level": 1, "bonus": "red", "points": 0, "cost": { "blue": 2, "green": 1 }, "position": "0 -200%" },
+        { "id": "lv129", "level": 1, "bonus": "red", "points": 0, "cost": { "white": 1, "red": 1, "black": 3 }, "position": "0 -200%" },
+        { "id": "lv130", "level": 1, "bonus": "red", "points": 0, "cost": { "white": 2, "green": 1, "black": 2 }, "position": "0 -200%" },
+        { "id": "lv131", "level": 1, "bonus": "red", "points": 0, "cost": { "white": 2, "blue": 1, "green": 1, "black": 1 }, "position": "0 -200%" },
+        { "id": "lv132", "level": 1, "bonus": "red", "points": 0, "cost": { "white": 1, "blue": 1, "green": 1, "black": 1 }, "position": "0 -200%" },
+        
+        { "id": "lv133", "level": 1, "bonus": "black", "points": 1, "cost": { "blue": 4 }, "position": "0 -100%" },
+        { "id": "lv134", "level": 1, "bonus": "black", "points": 0, "cost": { "green": 3 }, "position": "0 -100%" },
+        { "id": "lv135", "level": 1, "bonus": "black", "points": 0, "cost": { "white": 2,  "green": 2 }, "position": "0 -100%" },
+        { "id": "lv136", "level": 1, "bonus": "black", "points": 0, "cost": { "green": 2, "red": 1 }, "position": "0 -100%" },
+        { "id": "lv137", "level": 1, "bonus": "black", "points": 0, "cost": { "green": 1, "red": 3, "black": 1 }, "position": "0 -100%" },
+        { "id": "lv138", "level": 1, "bonus": "black", "points": 0, "cost": { "white": 2, "blue": 2, "red": 1 }, "position": "0 -100%" },
+        { "id": "lv139", "level": 1, "bonus": "black", "points": 0, "cost": { "white": 1, "blue": 2, "green": 1, "red": 1 }, "position": "0 -100%" },
+        { "id": "lv140", "level": 1, "bonus": "black", "points": 0, "cost": { "white": 1, "blue": 1, "green": 1, "red": 1 }, "position": "0 -100%" }
+    ],
+    "level2" : [
+        { "id": "lv201", "level": 2, "bonus": "white", "points": 3, "cost": { "white": 6}, "position": "-200% -400%" },
+        { "id": "lv202", "level": 2, "bonus": "white", "points": 2, "cost": { "red": 5 }, "position": "-200% -400%" },
+        { "id": "lv203", "level": 2, "bonus": "white", "points": 2, "cost": { "red": 5,  "black": 3 }, "position": "-200% -400%" },
+        { "id": "lv204", "level": 2, "bonus": "white", "points": 2, "cost": { "green": 1, "red": 4, "black": 2 }, "position": "-100% -400%" },
+        { "id": "lv205", "level": 2, "bonus": "white", "points": 1, "cost": { "white": 2, "blue": 3, "red": 3 }, "position": "-100% -400%" },
+        { "id": "lv206", "level": 2, "bonus": "white", "points": 1, "cost": { "green": 3, "red": 2, "black": 2 }, "position": "-100% -400%" },
+    
+        { "id": "lv207", "level": 2, "bonus": "blue", "points": 3, "cost": { "blue": 6 }, "position": "-100% 0" },
+        { "id": "lv208", "level": 2, "bonus": "blue", "points": 2, "cost": { "blue": 5 }, "position": "-100% 0" },
+        { "id": "lv209", "level": 2, "bonus": "blue", "points": 2, "cost": { "white": 5, "blue": 3 }, "position": "-200% 0" },
+        { "id": "lv210", "level": 2, "bonus": "blue", "points": 2, "cost": { "white": 2, "red": 1, "black": 4 }, "position": "-100% 0" },
+        { "id": "lv211", "level": 2, "bonus": "blue", "points": 1, "cost": { "blue": 2, "green": 3, "black": 3 }, "position": "-200% 0" },
+        { "id": "lv212", "level": 2, "bonus": "blue", "points": 1, "cost": { "blue": 2, "green": 2, "red": 3 }, "position": "-200% 0" },
+    
+        { "id": "lv213", "level": 2, "bonus": "green", "points": 3, "cost": { "green": 6 }, "position": "-100% -300%" },
+        { "id": "lv214", "level": 2, "bonus": "green", "points": 2, "cost": { "green": 5 }, "position": "-100% -300%" },
+        { "id": "lv215", "level": 2, "bonus": "green", "points": 2, "cost": { "blue": 5, "green": 3 }, "position": "-100% -300%" },
+        { "id": "lv216", "level": 2, "bonus": "green", "points": 2, "cost": { "white": 4, "blue": 2, "black": 1 }, "position": "-200% -300%" },
+        { "id": "lv217", "level": 2, "bonus": "green", "points": 1, "cost": { "white": 3, "green": 2, "red": 3 }, "position": "-200% -300%" },
+        { "id": "lv218", "level": 2, "bonus": "green", "points": 1, "cost": { "white": 2, "blue": 3, "black": 2 }, "position": "-200% -300%" },
+    
+        { "id": "lv219", "level": 2, "bonus": "red", "points": 3, "cost": { "red": 6 }, "position": "-100% -200%" },
+        { "id": "lv220", "level": 2, "bonus": "red", "points": 2, "cost": { "black": 5 }, "position": "-100% -200%" },
+        { "id": "lv221", "level": 2, "bonus": "red", "points": 2, "cost": { "white": 3, "black": 5 }, "position": "-100% -200%" },
+        { "id": "lv222", "level": 2, "bonus": "red", "points": 2, "cost": { "white": 1, "blue": 4, "green": 2 }, "position": "-200% -200%" },
+        { "id": "lv223", "level": 2, "bonus": "red", "points": 1, "cost": { "blue": 3, "red": 2, "black": 3 }, "position": "-200% -200%" },
+        { "id": "lv224", "level": 2, "bonus": "red", "points": 1, "cost": { "white": 2, "red": 2, "black": 3 }, "position": "-200% -200%" },
+    
+        { "id": "lv225", "level": 2, "bonus": "black", "points": 3, "cost": { "red": 6 }, "position": "-200% -100%" },
+        { "id": "lv226", "level": 2, "bonus": "black", "points": 2, "cost": { "black": 5 }, "position": "-200% -100%" },
+        { "id": "lv227", "level": 2, "bonus": "black", "points": 2, "cost": { "white": 3, "black": 5 }, "position": "-200% -100%" },
+        { "id": "lv228", "level": 2, "bonus": "black", "points": 2, "cost": { "white": 1, "blue": 4, "green": 2 }, "position": "-100% -100%" },
+        { "id": "lv229", "level": 2, "bonus": "black", "points": 1, "cost": { "blue": 3, "red": 2, "black": 3 }, "position": "-100% -100%" },
+        { "id": "lv230", "level": 2, "bonus": "black", "points": 1, "cost": { "white": 2, "red": 2, "black": 3 }, "position": "-100% -100%" }
+    ],
+    "level3" : [
+        { "id": "lv301", "level": 3, "bonus": "white", "points": 5, "cost": { "white": 3, "black": 7 }, "position": "-400% -400%" },
+        { "id": "lv302", "level": 3, "bonus": "white", "points": 4, "cost": { "white": 3, "red": 3, "black": 6 }, "position": "-300% -400%" },
+        { "id": "lv303", "level": 3, "bonus": "white", "points": 4, "cost": { "black": 7 }, "position": "-300% -400%" },
+        { "id": "lv304", "level": 3, "bonus": "white", "points": 3, "cost": { "blue": 3, "green": 3, "red": 5, "black": 3 }, "position": "-400% -400%" },
+    
+        { "id": "lv305", "level": 3, "bonus": "blue", "points": 5, "cost": { "white": 7, "blue": 3 }, "position": "-300% 0" },
+        { "id": "lv306", "level": 3, "bonus": "blue", "points": 4, "cost": { "white": 6, "blue": 3, "black": 3 }, "position": "-300% 0" },
+        { "id": "lv307", "level": 3, "bonus": "blue", "points": 4, "cost": { "white": 7 }, "position": "-400% 0" },
+        { "id": "lv308", "level": 3, "bonus": "blue", "points": 3, "cost": { "white": 3, "green": 3, "red": 3, "black": 5 }, "position": "-400% 0" },
+    
+        { "id": "lv309", "level": 3, "bonus": "green", "points": 5, "cost": { "blue": 7, "green": 3 }, "position": "-300% -300%" },
+        { "id": "lv310", "level": 3, "bonus": "green", "points": 4, "cost": { "white": 3, "blue": 6, "green": 3 }, "position": "-300% -400%" },
+        { "id": "lv311", "level": 3, "bonus": "green", "points": 4, "cost": { "blue": 7 }, "position": "-300% -400%" },
+        { "id": "lv312", "level": 3, "bonus": "green", "points": 3, "cost": { "white": 5, "blue": 3, "red": 3, "black": 3 }, "position": "-300% -300%" },
+    
+        { "id": "lv313", "level": 3, "bonus": "red", "points": 5, "cost": { "green": 7, "red": 3 }, "position": "-300% -200%" },
+        { "id": "lv314", "level": 3, "bonus": "red", "points": 4, "cost": { "blue": 3, "green": 6, "red": 3 }, "position": "-300% -200%" },
+        { "id": "lv315", "level": 3, "bonus": "red", "points": 4, "cost": { "green": 7 }, "position": "-400% -200%" },
+        { "id": "lv316", "level": 3, "bonus": "red", "points": 3, "cost": { "white": 3, "blue": 5, "green": 3, "black": 3 }, "position": "-400% -200%" },
+    
+        { "id": "lv317", "level": 3, "bonus": "black", "points": 5, "cost": { "red": 7, "black": 3 }, "position": "-300% -100%" },
+        { "id": "lv318", "level": 3, "bonus": "black", "points": 4, "cost": { "green": 3, "red": 6, "black": 3 }, "position": "-400% -100%" },
+        { "id": "lv319", "level": 3, "bonus": "black", "points": 4, "cost": { "red": 7 }, "position": "-400% -100%" },
+        { "id": "lv320", "level": 3, "bonus": "black", "points": 3, "cost": { "white": 3, "blue": 3, "green": 5, "red": 3 }, "position": "-300% -100%" }
+    ]
+}

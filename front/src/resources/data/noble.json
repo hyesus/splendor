@@ -1,0 +1,12 @@
+[ 
+    {"id": "nb01", "position": "0 0", "requiredBonuses": { "red": 4, "green": 4 }, "points": 3, "name": "Mary I"},
+    {"id": "nb02", "position": "-100% 0", "requiredBonuses": { "blue": 4, "green": 4 }, "points": 3, "name": "Suleiman I"},
+    {"id": "nb03", "position": "-200% 0", "requiredBonuses": { "blue": 4, "white": 4 }, "points": 3, "name": "Machiavelli"},
+    {"id": "nb04", "position": "-300% 0", "requiredBonuses": { "black": 4, "white": 4 }, "points": 3, "name": "Isabel I"},
+    {"id": "nb05", "position": "-400% 0", "requiredBonuses": { "black": 4, "red": 4 }, "points": 3, "name": "Henry VIII"},
+    {"id": "nb06", "position": "0 -100%", "requiredBonuses": { "black": 3, "blue": 3 , "white": 3}, "points": 3, "name": "Elizabeth I"},
+    {"id": "nb07", "position": "-100% -100%", "requiredBonuses": { "black": 3, "red": 3, "green": 3 }, "points": 3, "name": "Francis I"},
+    {"id": "nb08", "position": "-200% -100%", "requiredBonuses": { "black": 3, "red": 3, "white": 3 }, "points": 3, "name": "Karl V"},
+    {"id": "nb09", "position": "-300% -100%", "requiredBonuses": { "green": 3, "blue": 3, "red": 3 }, "points": 3, "name": "Caterina de' Medici"},
+    {"id": "nb10", "position": "-400% -100%", "requiredBonuses": { "green": 3, "blue": 3, "white": 3 }, "points": 3, "name": "Anne Boleyn"}
+]
