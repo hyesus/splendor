@@ -2,12 +2,15 @@
 
 # dependencies
 front/node_modules
+backend/node_modules
 /.pnp
 .pnp.js
 
 # lock file
 front/package-lock.json
 front/yarn.lock
+backend/package-lock.json
+back/yarn.lock
 
 # testing
 /coverage
