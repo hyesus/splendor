@@ -7,7 +7,7 @@ front/node_modules
 
 # lock file
 front/package-lock.json
-frontt/yarn.lock
+front/yarn.lock
 
 # testing
 /coverage
