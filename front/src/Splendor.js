@@ -32,7 +32,7 @@ const point = {
     10: "-900%"
 };
 
-export default (props) => {
+const Splendor = (props) => {
     //const game_set = { };
     const [myAccount, setMyAccount] = useState({id: "hyesus", win: 0, lose: 0});
 
@@ -238,9 +238,9 @@ export default (props) => {
             const myYellowCoin = myPlayer?.token?.filter( f  => f?.color == 'yellow' );
             // 지불 해야 하는 코인 수 > 내가 가진 총 코인 수
             const payCoinCnt = _.sum(payfilteredCoin?.map( t => discountedCost[t]));
-            const myCoinCnt = ( payfilteredCoin?.
+            const myCoinCnt = ( payfilteredCoin
                                 // 내가 가진 지불 해야하는 색상의 코인 수
-                                reduce( color => {
+                                ?.reduce( color => {
                                     return myPlayer?.token?.filter( f  => f?.color == color )
                                 } )
                              )
@@ -265,7 +265,7 @@ export default (props) => {
 
         // spendTokens: myPlayer.token - card.cost
         cardKeys.forEach(k => {
-            let color = k;
+            const color = k;
             for(let i = 0; i < discountedCost[color]; i++) {
                 let myTokenIdx = -1;
                 myPlayer.token?.some((t, idx) => {
@@ -275,10 +275,9 @@ export default (props) => {
                     } else return false;
                 });
                 //해당 컬러의 token이 없을 경우 gold token 소비
-                if(myTokenIdx != -1) { 
-                    color = "yellow";
+                if(myTokenIdx !== -1) { 
                     myPlayer.token?.some((t, idx) => {
-                        if(t.color === color) {
+                        if(t.color === "yellow") {
                             myTokenIdx = idx;
                             return true;
                         } else return false;
@@ -577,6 +576,8 @@ export default (props) => {
         </Board>
     );
 }
+
+export default Splendor;
 
 const Board = styled.div`
     display: flex;
